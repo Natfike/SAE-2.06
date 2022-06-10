@@ -5,8 +5,8 @@
 .u-section-1 .u-text-1 {
   text-shadow: 2px -2px 8px rgba(128,128,128,1);
   font-weight: 700;
-  width: 389px;
-  margin: 71px auto 56px;
+  width: 409px;
+  margin: 71px auto 57px;
 }
 
 @media (max-width: 575px) {
@@ -72,7 +72,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  margin: 44px 0 0;
+  margin: 44px 15px 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -106,6 +106,10 @@
 
   .u-section-2 .u-layout-cell-4 {
     min-height: 268px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
   }
 }
 
